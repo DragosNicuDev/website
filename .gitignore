@@ -1,0 +1,6 @@
+db.sqlite3
+__pycache__
+dragos.sublime-workspace
+functional_tests/geckodriver.log
+geckodriver.log
+
